@@ -1,0 +1,179 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoServer\\SyncDemoServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoCommon\\SyncDemoCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoCommon\\SyncDemoCommon.csproj",
+        "projectName": "SyncDemoCommon",
+        "projectPath": "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoCommon\\SyncDemoCommon.csproj",
+        "packagesPath": "C:\\Users\\IsmailHassani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IsmailHassani\\source\\repos\\NuGet.Config",
+          "C:\\Users\\IsmailHassani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Tmp": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/azure-public/vside/_packaging/xamarin-impl/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet6/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "I-Synergy.Framework.Core": {
+              "target": "Package",
+              "version": "[2021.1344.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoServer\\SyncDemoServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoServer\\SyncDemoServer.csproj",
+        "projectName": "SyncDemoServer",
+        "projectPath": "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoServer\\SyncDemoServer.csproj",
+        "packagesPath": "C:\\Users\\IsmailHassani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\IsmailHassani\\source\\repos\\NuGet.Config",
+          "C:\\Users\\IsmailHassani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Tmp": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/azure-public/vside/_packaging/xamarin-impl/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet6/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoCommon\\SyncDemoCommon.csproj": {
+                "projectPath": "C:\\Users\\IsmailHassani\\source\\repos\\SyncDemo\\SyncDemoCommon\\SyncDemoCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dotmim.Sync.SqlServer.ChangeTracking": {
+              "target": "Package",
+              "version": "[0.9.1, )"
+            },
+            "Dotmim.Sync.Web.Server": {
+              "target": "Package",
+              "version": "[0.9.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

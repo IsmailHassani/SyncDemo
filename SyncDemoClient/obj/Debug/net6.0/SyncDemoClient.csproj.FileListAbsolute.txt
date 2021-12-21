@@ -1,0 +1,15 @@
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\SyncDemoClient.csproj.AssemblyReference.cache
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\SyncDemoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\SyncDemoClient.AssemblyInfoInputs.cache
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\SyncDemoClient.AssemblyInfo.cs
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\SyncDemoClient.csproj.CoreCompileInputs.cache
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\bin\Debug\net6.0\SyncDemoClient.deps.json
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\bin\Debug\net6.0\SyncDemoClient.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\bin\Debug\net6.0\ref\SyncDemoClient.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\bin\Debug\net6.0\SyncDemoClient.pdb
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\bin\Debug\net6.0\SyncDemoCommon.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\bin\Debug\net6.0\SyncDemoCommon.pdb
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\SyncDemoClient.csproj.CopyComplete
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\SyncDemoClient.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\ref\SyncDemoClient.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoClient\obj\Debug\net6.0\SyncDemoClient.pdb

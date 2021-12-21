@@ -1,0 +1,6 @@
+{
+  "Channel": "SyncGroup",
+  "CheckHostInterval": "00:00:15",
+  "Host": "https://localhost:44320",
+  "IsMaster": false
+}

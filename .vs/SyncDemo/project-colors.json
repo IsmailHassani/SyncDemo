@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3aa5e45-48e8-4f29-b2f5-8daed22f5ab2": {
+      "ProjectGuid": "e3aa5e45-48e8-4f29-b2f5-8daed22f5ab2",
+      "DisplayName": "SyncDemo",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "081fefeb-dd9d-4260-9931-d35341c0185c": {
+      "ProjectGuid": "081fefeb-dd9d-4260-9931-d35341c0185c",
+      "DisplayName": "SyncDemoServer",
+      "ColorIndex": 1
+    },
+    "941e8cd4-0516-49e1-989f-1eab5e410bbe": {
+      "ProjectGuid": "941e8cd4-0516-49e1-989f-1eab5e410bbe",
+      "DisplayName": "SyncDemoClient",
+      "ColorIndex": 2
+    },
+    "a6df3c29-fea4-45ac-96b8-60128d65b985": {
+      "ProjectGuid": "a6df3c29-fea4-45ac-96b8-60128d65b985",
+      "DisplayName": "SyncDemoCommon",
+      "ColorIndex": 3
+    },
+    "b4d43473-f04e-4999-b027-84b317fdcff9": {
+      "ProjectGuid": "b4d43473-f04e-4999-b027-84b317fdcff9",
+      "DisplayName": "SyncDemo",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

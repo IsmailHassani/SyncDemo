@@ -1,0 +1,12 @@
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\obj\Debug\net6.0\SyncDemoCommon.csproj.AssemblyReference.cache
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\obj\Debug\net6.0\SyncDemoCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\obj\Debug\net6.0\SyncDemoCommon.AssemblyInfoInputs.cache
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\obj\Debug\net6.0\SyncDemoCommon.AssemblyInfo.cs
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\obj\Debug\net6.0\SyncDemoCommon.csproj.CoreCompileInputs.cache
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\bin\Debug\net6.0\SyncDemoCommon.deps.json
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\bin\Debug\net6.0\SyncDemoCommon.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\bin\Debug\net6.0\ref\SyncDemoCommon.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\bin\Debug\net6.0\SyncDemoCommon.pdb
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\obj\Debug\net6.0\SyncDemoCommon.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\obj\Debug\net6.0\ref\SyncDemoCommon.dll
+C:\Users\IsmailHassani\source\repos\SyncDemo\SyncDemoCommon\obj\Debug\net6.0\SyncDemoCommon.pdb
